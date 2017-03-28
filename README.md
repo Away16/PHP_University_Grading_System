@@ -9,7 +9,10 @@ there are two database files and you should use only one of them.there's a Datab
 Admin password for the Project in the Wamp database export is '1' and  admin password for 'Direct Admin' db export is 'admin1395'.Admin passwords are stored with MD5 hash in Database.
 
 Ostad Samples in "Direct Admin" Database export file:
+
 Username	Password
+-------------------
+
 naseri	123456
 
 naderi	123456
