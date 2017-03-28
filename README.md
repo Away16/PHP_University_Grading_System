@@ -27,4 +27,4 @@ mohammadi        	1234567
 
 --------------------
 
-this project is for newbies and those who want to learn php coding.please do not consider this project as a professional project.
+this project is for newbies and those who want to learn PHP coding.please do not consider this project as a professional project.
