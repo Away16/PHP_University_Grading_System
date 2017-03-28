@@ -10,7 +10,7 @@ Admin password for the Project in the Wamp database export is '1' and  admin pas
 
 Ostad Samples in "Direct Admin" Database export file:
 
-Username	      Password
+User	      Pass
 -------------------
 
 naseri	          123456
