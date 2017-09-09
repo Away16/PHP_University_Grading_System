@@ -10,6 +10,10 @@ Admin password for the Project in the Wamp database export is '1' and admin pass
 <p align="center">
 ![Alt text](/Database%20Files/DB%20Export.png?raw=true "Optional Title")
 </p>
+<p align="center">
+  <img src="/Database%20Files/DB%20Export.png" width="350"/>
+  <img src="/Database%20Files/DB%20Export.png" width="350"/>
+</p>
 I have also included a folder named "Excel Samples" that you can use them as samples to be used in Professors Panel.you can upload the grades in excel files so that every Professor uploads the grade of his/her students as an excel file.you can see the format of excel files in the "Excel samples" folder.there are also other excel files so that you can see the errors of upload section. if there is an error like "max file size exceeds" or "a student's grade is not entered in excel file" and etc... it handles the error and gives the user the proper message.
 
 i have also included a file named "PHP Grading Project.rar" that all the files that are uploaded here are included in this file.so feel free if you need to download it.
